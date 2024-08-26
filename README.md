@@ -1,2 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=chocho-1115&show_icons=true&hide_title=false&hide_rank=true&theme=transparent)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocho-1115&layout=compact&theme=transparent)]
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=chocho-1115&theme=transparent&hide_border=true&show_icons=true&hide_rank=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocho-1115&theme=transparent&hide_border=true)]()
+
